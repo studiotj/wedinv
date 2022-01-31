@@ -7,10 +7,10 @@ const LivePage = () => {
   return (
     <>
       <Head>
-        <title>박영훈 ♡ 김현주 결혼식 중계</title>
+        <title>이종찬 ♡ 이현경 결혼식 중계</title>
         <meta
           name="description"
-          content="박영훈 ♡ 김현주 10월 3일에 결혼합니다."
+          content="이종찬 ♡ 이현경 4월 9일에 결혼합니다."
         />
         <meta
           name="viewport"

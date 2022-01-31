@@ -538,15 +538,15 @@ const Home = () => {
   return (
     <Main>
       <Header>
-        박영훈
+        이종찬
         <hr />
-        김현주
+        이현경
       </Header>
       <CoverPicWrap>
         <Image src={coverPic} priority={true} placeholder="blur" alt="" />
       </CoverPicWrap>
       <p>
-        2021년 10월 3일 일요일 오후 1시
+        2022년 4월 9일 토요일 오후 5시
         <br />
         반포 JW 메리어트 호텔 5층 그랜드볼룸
       </p>
@@ -557,30 +557,30 @@ const Home = () => {
 
       <SectionHeader>결혼합니다.</SectionHeader>
       <GreetingP>
-        청명한 가을날
+        저희 두 사람, 부부의 연을 맺게 되었습니다.
         <br />
-        새로이 시작하는 작은 사랑이
+        앞으로도 서로 아껴주고 이해하며,
         <br />
-        보다 크고 깊은 사랑이 되려고 합니다.
+        사랑을 베풀며 살도록 하겠습니다.
         <br />
-        함께 자리하시어 축복해 주시면
+        저희 두 사람의 앞날을 축복해 주시면
         <br />
-        더없는 기쁨이겠습니다.
+        더없는 기쁨으로 간직하겠습니다.
       </GreetingP>
       <GreetingP>
-        김종오 · 강경자의 장녀 현주
+        이용규 · 박정애의 장녀 현주
         <br />
-        박민양 · 최승현의 차남 영훈
+        노승희의 장녀 이현경
       </GreetingP>
       <CallWrap>
-        <a href="tel:01071056849">
+        <a href="tel:01035637782">
           <CallButton
             icon={<EmojiLookRight />}
             bgColor="#abdaab"
             label="신랑측에 연락하기"
           />
         </a>
-        <a href="tel:01073692869">
+        <a href="tel:01046165728">
           <CallButton
             icon={<EmojiLookLeft />}
             bgColor="#c2e0a3"
@@ -629,14 +629,14 @@ const Home = () => {
       <SectionHeader>💸 마음 전하실 곳</SectionHeader>
       <GiveWrap>
         <p>
-          <strong>신랑측</strong> (박영훈)
+          <strong>신랑측</strong> (이종찬)
           <br />
-          <CopyText text="카카오뱅크 3333-07-0052253" />
+          <CopyText text="우리은행 1002-743-204058" />
         </p>
         <p>
-          <strong>신부측</strong> (김현주)
+          <strong>신부측</strong> (이현경)
           <br />
-          <CopyText text="우리은행 1002-291-920831" />
+          <CopyText text="신한은행 110-502-203145" />
         </p>
       </GiveWrap>
       <SectionHr />
