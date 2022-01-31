@@ -41,9 +41,9 @@ const Live = () => {
   return (
     <Main>
       <Header>
-        박영훈
+        이종찬
         <hr />
-        김현주
+        이현경
       </Header>
 
       <p>
