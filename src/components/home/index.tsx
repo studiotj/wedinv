@@ -7,7 +7,7 @@ import React, {
   useEffect,
   useRef,
   useState,
-} from "react";
+} from "react"; 
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import styled, { css } from "styled-components";
