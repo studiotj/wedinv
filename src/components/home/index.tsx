@@ -695,7 +695,7 @@ const Home = () => {
         <p>
           <strong>신랑측</strong> (최태준)
           <br />
-          父 최갑현 <CopyText text="농협 821027-52-095666" />
+          父 최갑현 <CopyText text="농협 821027-52-095666" /> <br />
           母 이영희 <CopyText text="농협 858-02-072598" />
         </p>
         <p>
