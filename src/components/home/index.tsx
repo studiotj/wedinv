@@ -709,6 +709,7 @@ const Home = () => {
             <div> 
               父 이희봉 <CopyText text="농협 477-12-045826" />
             </div>
+          </MapWrapA>
         </p>
       </GiveWrap>
       
