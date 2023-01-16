@@ -144,7 +144,7 @@ const PhotoGrid = styled.ul`
     max-height: 100%;
     
     /* min-width: 100%; */
-    min-width: 50%;
+    max-width: 100%;
     
     object-fit: cover; 
     /* object-fit: scale-down; */
