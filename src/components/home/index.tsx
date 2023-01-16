@@ -707,7 +707,8 @@ const Home = () => {
           <br />
           <MapWrapA>
             <div> 
-              父 이희봉 <CopyText text="농협 477-12-045826" />
+              父 이희봉 <CopyText text="농협 477-12-045826" /> <br /> 
+              母 김재락 <CopyText text="국민은행 474101-04-045737" />
             </div>
           </MapWrapA>
         </p>
