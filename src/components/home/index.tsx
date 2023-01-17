@@ -609,7 +609,7 @@ const Home = () => {
       </CallWrap>
       <SectionHr />
       <PhotoGrid>
-        {Array.from(Array(15), (_, i) => i).map((i) => (
+        {Array.from(Array(14), (_, i) => i).map((i) => (
           <li key={i}>
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
