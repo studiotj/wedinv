@@ -144,8 +144,8 @@ const PhotoGrid = styled.ul`
     min-width: 100%;
     object-fit: cover; 
 
-    /* vertical-align: bottom; */
-    vertical-align: top;
+    object-position: center 20%;
+    vertical-align: bottom;
   }
 `;
 
